@@ -8,7 +8,7 @@ from io import BytesIO
 import base64
 import re
 
-TOKEN = "6966026234:AAH6OgrHPxeEEEx0D_zWXkbwOzgjylRMg6M"
+TOKEN = "7207135833:AAE0ChwWrneE1gxbByaFCISPOCNF6xtWLWc"
 
 bot = telebot.TeleBot(TOKEN)
 user_start_counts = {}
